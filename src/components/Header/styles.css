@@ -1,0 +1,27 @@
+header {
+    height: 70px;
+    background-color: var(--color-bg-secondary);
+    color: var(--color-font-secondary);
+    display: flex;
+    align-items: center;
+}
+
+.header-content-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 16px;
+}
+
+.menu-item-active{
+    font-weight: 700;
+}
+
+.header-content-container img {
+    width: 30px;
+}
+
+.navbar {
+    display: flex;
+    column-gap: 20px;
+}
