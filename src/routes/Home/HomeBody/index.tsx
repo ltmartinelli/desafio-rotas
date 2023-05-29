@@ -1,8 +1,10 @@
 export default function HomeBody()
 {
-return(
-    <body>
-        <h1>Home</h1>
-    </body>
-);
+    return (
+        <main>
+            <div className="container">
+                <h1 className="title">Bem-Vindos!</h1>
+            </div>
+        </main>
+    );
 }

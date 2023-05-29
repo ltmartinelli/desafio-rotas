@@ -1,8 +1,10 @@
 export default function About()
 {
-return(
-    <body>
-        <h1>Sobre</h1>
-    </body>
-);
+    return (
+        <main>
+            <div className="container">
+                <h1 className="title">Sobre nós</h1>
+            </div>
+        </main>
+    );
 }

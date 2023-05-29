@@ -13,10 +13,6 @@ header {
     font-size: 16px;
 }
 
-.menu-item-active{
-    font-weight: 700;
-}
-
 .header-content-container img {
     width: 30px;
 }
